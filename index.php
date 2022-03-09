@@ -1,4 +1,4 @@
-<h1 style="text-align:center;">Arduino/Raspberry app</h1>
+<h1 style="text-align:center;">Github Webhosting</h1>
 <br>
 <?php
 	
